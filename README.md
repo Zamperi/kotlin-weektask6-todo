@@ -1,4 +1,4 @@
-# Weektask 5 - Todo
+# Weektask 6 - Todo
 
 ## Exercixe
 Task was to create an application that displays data from an API in a list form and implements MVVM architecture.
